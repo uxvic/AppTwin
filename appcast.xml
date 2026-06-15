@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AppTwin</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 15 Jun 2026 17:50:04 +0100</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/uxvic/AppTwin/releases/download/v1.0.0/AppTwin-1.0.0.zip" length="2105873" type="application/octet-stream" sparkle:edSignature="4iEx+mOYDafUTxH9z0T3DtororiF59J2EoSnafc6HrFjXz63U9HIkCSoKhw5U7YquWbwkuxF23mf7CfSkoXgDA=="/>
+        </item>
+    </channel>
+</rss>

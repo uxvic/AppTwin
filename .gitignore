@@ -1,0 +1,11 @@
+# Build output
+.build/
+dist/
+*.dmg
+*.zip
+
+# Sparkle public key cache (the private key lives in the Keychain, never committed)
+.sparkle_public_key.txt
+
+# macOS
+.DS_Store
